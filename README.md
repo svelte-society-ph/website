@@ -1,2 +1,1 @@
-# website
-Svelte Society PH Official website
+# Svelte Society PH Official Website
